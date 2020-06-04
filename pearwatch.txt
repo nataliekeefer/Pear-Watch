@@ -1,0 +1,13 @@
+PearWatch
+
+Features:
+* Heart rate
+* Time
+* Steps
+* Calories
+* Distance
+* Stopwatch
+* Timer
+* Notifications
+* Ambient temperatures
+
